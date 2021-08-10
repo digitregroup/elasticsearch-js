@@ -1,6 +1,6 @@
 {
-  "name": "@elastic/elasticsearch",
-  "description": "The official Elasticsearch client for Node.js",
+  "name": "@digitregroup/elasticsearch",
+  "description": "The no-official Elasticsearch client for Node.js",
   "main": "index.js",
   "types": "index.d.ts",
   "exports": {
@@ -11,7 +11,7 @@
     "./": "./"
   },
   "homepage": "http://www.elastic.co/guide/en/elasticsearch/client/javascript-api/current/index.html",
-  "version": "8.0.0-SNAPSHOT.9f33e3c7",
+  "version": "7.13.1",
   "versionCanary": "8.0.0-canary.14",
   "keywords": [
     "elasticsearch",
